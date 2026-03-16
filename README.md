@@ -1,13 +1,13 @@
-EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
+## EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
-Aim:
+## Aim:
 To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses.
 
-Explanation:
+## Explanation:
 
-Define the Two Prompt Types:
+## Define the Two Prompt Types:
 
-Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model. Based on that pattern type refined the prompt and submit that with AI tool. Get the ouput and write the report.
+## Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model. Based on that pattern type refined the prompt and submit that with AI tool. Get the ouput and write the report.
 
 Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a creative story. Answering a factual question. Summarizing an article or concept. Providing advice or recommendations. or Any other test scenario. For each scenario, create both a naïve and a basic prompt. Ensure each pair of prompts targets the same task but with different levels of structure. Run Experiments with ChatGPT: Input the naïve prompt for each scenario and record the generated response. Then input the corresponding basic prompt and capture that response. Repeat this process for all selected scenarios to gather a full set of results. Evaluate Responses : Compare how ChatGPT performs when given naïve versus basic prompts and analyze the output based on Quality,Accuracy and Depth. Also analyse does ChatGPT consistently provide better results with basic prompts? Are there scenarios where naïve prompts work equally well? Deliverables: A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios. Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs. Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
@@ -114,7 +114,7 @@ Effective studying requires strategic approaches backed by cognitive science:
 <br>
 
 
-RESULT:<br>
+## RESULT:<br>
 The experiment demonstrated that well-structured, detailed prompts (basic prompts) consistently outperform vague, unstructured prompts (naive prompts) across all test scenarios, yielding responses with significantly greater quality, accuracy, and depth.<br>
 Basic prompts generated outputs that were 3-5x longer, included technical terminology and specific examples, and provided comprehensive multi-dimensional analysis compared to the brief, superficial responses from naive prompts.<br>
 Prompt engineering is a critical skill for effective AI interaction, as the clarity and specificity of instructions directly impact the value and usability of ChatGPT's responses for academic, professional, and practical applications.
